@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Melissa!
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning web development languages such as Javascript, React, and PHP
 - 💞️ I’m looking to collaborate on web development projects!
 - 📫 You can reach me at my email: mzhen826@gmail.com
 
