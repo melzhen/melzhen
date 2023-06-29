@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Melissa!
-- 👀 I’m interested in front end web development
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning web development languages such as Javascript, React, and PHP
-- 💞️ I’m looking to collaborate on web development projects!
+- 💞️ I’m now looking for entry-level jobs for web development or software engineering!
 - 📫 You can reach me at my email: mzhen826@gmail.com
 
 <!---
